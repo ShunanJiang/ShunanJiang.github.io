@@ -13,7 +13,7 @@ I'm now a first year PhD student at UC Berkeley IEOR department. I received my b
 # Publication
 **Shunan Jiang**, Wenqiang Pu, Zhi-quan Luo. *Optimal Asynchronous Multi-sensor Registration In 3 Dimensions*. IEEE GlobalSIP 2018.
 
-# Research Interests
+# Current Research Interests
 * RL/MAB and their applications on meaningful practical problems
 * Machine learning fairness
 * Interface of machine learning and causal inference
@@ -34,4 +34,4 @@ I'm always opening to collaboration, please send me an email (shunan_jiang@berke
 * Tencent WeChat Campus Card "Digital Star"   2017
 
 # CV
-My CV [Download](https://shunanjiang.github.io/files/CV_shunan.pdf)
+Download [here](https://shunanjiang.github.io/files/CV_shunan.pdf)
