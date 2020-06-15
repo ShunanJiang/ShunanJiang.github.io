@@ -34,7 +34,4 @@ I'm always opening to collaboration, please send me an email (shunan_jiang@berke
 * Tencent WeChat Campus Card "Digital Star"   2017
 
 # CV
-<embed src="http://ShunanJiang.github.io/files/CV_shunan.pdf&embedded=true" width="500" height="375"
- type="application/pdf">
-
-<iframe src="http://ShunanJiang.github.io/files/CV_shunan.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+My CV[Download](https://shunanjiang.github.io/files/CV_shunan.pdf)
