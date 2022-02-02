@@ -14,8 +14,8 @@ I'm now a third year PhD student at UC Berkeley IEOR department. My current rese
 **Shunan Jiang**, Wenqiang Pu, Zhi-quan Luo. *Optimal Asynchronous Multi-sensor Registration In 3 Dimensions*. IEEE GlobalSIP 2018.
 
 # Working Paper
-*Learning Newsvendor Problem in a Growing Environment with censored and un-censored Demand, with Meng Qi, Zeyu Zheng and Zuo-Jun Max Shen
-*Dynamic Repositioning in On-demand Vehicle RentalSystems with Demand Learning, with Hansheng Jiang and Zuo-Jun Max Shen
+* Learning Newsvendor Problem in a Growing Environment with censored and un-censored Demand, with Meng Qi, Zeyu Zheng and Zuo-Jun Max Shen
+* Dynamic Repositioning in On-demand Vehicle RentalSystems with Demand Learning, with Hansheng Jiang and Zuo-Jun Max Shen
 
 # Current Research Interests
 * Reinforcement learning/multi-armed bandits and their applications on meaningful practical problems
