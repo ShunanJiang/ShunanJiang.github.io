@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shunan Jiang"
 title_separator          : "-"
 name                     : &name "Shunan Jiang"
-description              : &description "First-year IEOR PhD student at Berkeley IEOR"
+description              : &description "IEOR PhD student at Berkeley"
 url                      : https://ShunanJiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShunanJiang.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shunan Jiang"
-  avatar           : "profile2.jpeg"
+  avatar           : "WechatIMG7647.jpeg"
   bio              : "IEOR PhD student at Berkeley"
   location         : "Berkeley, California"
   employer         :
