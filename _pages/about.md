@@ -25,12 +25,6 @@ I'm now a third year PhD student at UC Berkeley IEOR department. My current rese
 # Collaboration
 I'm always open to collaboration, please send me an email (shunan_jiang@berkeley.edu) if you're interested.
 
-# Other Interests
-* Psychology (positive psychology, personality psychology)
-* Philosophy (Epistemology, Morality)
-* Effective Altruism (I donate 5% income to charities)
-* Mindfulness, Meditation
-
 # Selected Awards
 * National Scholarship(0.02%)   2017
 * 1st Rank Academic Scholarship(0.6%)   2016, 2017, 2018
@@ -41,3 +35,9 @@ I'm always open to collaboration, please send me an email (shunan_jiang@berkeley
 
 # CV
 Download [here](https://shunanjiang.github.io/files/CV_shunan.pdf)
+
+# Other Interests
+* Psychology (positive psychology, personality psychology)
+* Philosophy (Epistemology, Morality)
+* Effective Altruism (I donate 5% income to charities)
+* Mindfulness, Meditation
