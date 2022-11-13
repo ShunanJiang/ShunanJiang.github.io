@@ -14,7 +14,7 @@ I'm now a fourth-year PhD candidate at the UC Berkeley IEOR department. My curre
 **Shunan Jiang**, Wenqiang Pu, Zhi-quan Luo. *Optimal Asynchronous Multi-sensor Registration In 3 Dimensions*. IEEE GlobalSIP 2018.
 
 # Working Paper
-* Dynamic Repositioning in On-demand Vehicle Rental Systems with Demand Learning, with Hansheng Jiang and Zuo-Jun Max Shen, in preparation for submitting to Management Science, avaliable at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4140449)
+* Dynamic Repositioning in On-demand Vehicle Rental Systems with Demand Learning, with Hansheng Jiang and Zuo-Jun Max Shen, in preparation for submitting to Management Science, avaliable at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4275368)
 * Learning Newsvendor Problem in a Growing Environment, with Meng Qi, Zeyu Zheng and Zuo-Jun Max Shen
 * Platform Cold Start Design: A Structural Online Learning Approach, with Gang Guo
 
