@@ -44,10 +44,9 @@ I'm always open to collaboration, please send me an email (shunan_jiang@berkeley
 * Outstanding GSI(Graduate Student Instructor) Award 2021
 
 # CV
-Download [here](https://shunanjiang.github.io/files/CV_shunan.pdf)
+Download [here](https://shunanjiang.github.io/files/shunan_cv_nov16.pdf)
 
 # Other Interests
 * Psychology (positive psychology, personality psychology)
-* Philosophy (Epistemology, Morality)
-* Effective Altruism (I donate 5% income to charities)
+* Philosophy (I like Nietzsche and Zhuangzi the most!)
 * Mindfulness, Meditation
