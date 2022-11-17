@@ -20,7 +20,7 @@ I'm now a fourth-year PhD candidate at the UC Berkeley IEOR department. I major 
 
 # Current Research Interests
 * Reinforcement learning/multi-armed bandits and their applications on meaningful practical problems
-* Interface of machine learning and economics
+* Interface of machine learning and economics/marketing
 * Interface of machine learning and causal inference
 
 # Collaboration
