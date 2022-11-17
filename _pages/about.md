@@ -50,3 +50,4 @@ Download [here](https://shunanjiang.github.io/files/shunan_cv_nov16.pdf)
 * Psychology (positive psychology, personality psychology)
 * Philosophy (I like Nietzsche and Zhuangzi the most!)
 * Mindfulness, Meditation
+* I randomly write comments/articles about philosophy/psychology/books/events on [Zhihu](https://www.zhihu.com/people/jiang-su-lan) (it's like Chinese Quora) 
