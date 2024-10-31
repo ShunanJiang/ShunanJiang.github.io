@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-I'm now a sixth-year PhD candidate at the UC Berkeley IEOR department. I major in operations research with minors in machine learning and economics. I'm interested in both machine learning and human learning. I'm honored to be advised by Prof. [Zuo-Jun (Max) Shen](https://scholar.google.com/citations?user=XGXOxQoAAAAJ&hl=en) and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/). I'm also fortunate to have Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) as my thesis committee members. Before my PhD, I received my bachelor degree from [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn/en). My undergraduate major is Computer Science and Engineering. 
+I'm now a sixth-year PhD candidate at the UC Berkeley IEOR department. I major in operations research with minors in machine learning and economics. I'm interested in both machine learning and human learning. I'm honored to be advised by Prof. [Zuo-Jun (Max) Shen](https://scholar.google.com/citations?user=XGXOxQoAAAAJ&hl=en) and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/). I'm also fortunate to have Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) as my thesis committee members. Before my PhD, I received my bachelor degree in computer science from [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn/en). 
 
 # Publication
 **Shunan Jiang**, Wenqiang Pu, Zhi-quan Luo. *Optimal Asynchronous Multi-sensor Registration In 3 Dimensions*. IEEE GlobalSIP 2018.
