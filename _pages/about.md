@@ -10,6 +10,11 @@ redirect_from:
 
 I'm now a sixth-year PhD candidate at the UC Berkeley IEOR department. I major in operations research with minors in machine learning and economics. I'm interested in both machine learning and human learning. I'm honored to be advised by Prof. [Zuo-Jun (Max) Shen](https://scholar.google.com/citations?user=XGXOxQoAAAAJ&hl=en) and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/). I'm also fortunate to have Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) as my thesis committee members. Before my PhD, I received my bachelor degree in computer science from [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn/en). 
 
+# Current Research Interests
+1. Developing data-driven learning algorithms for dynamic decision-making problems in operations;
+2. Leveraging large datasets to understand human user behaviors especially on on-demand platforms;
+3. Aligning machine learning algorithms with human behaviors to improve performance and welfare.
+
 # Publication
 **Shunan Jiang**, Wenqiang Pu, Zhi-quan Luo. *Optimal Asynchronous Multi-sensor Registration In 3 Dimensions*. IEEE GlobalSIP 2018.
 
@@ -19,10 +24,6 @@ I'm now a sixth-year PhD candidate at the UC Berkeley IEOR department. I major i
 * Learning on the Go: Understanding How Gig Economy Workers Learn with Recommendation Algorithms, with Park Sinchaisri, submitted to ACM CSCW 2025, avaliable at [here](https://github.com/ShunanJiang/ShunanJiang.github.io/blob/master/files/CSCW_2025___Learning_on_the_Go%20(13).pdf)
 * Improve Worker Learning in The Gig Economy, with Park Sinchaisri, presented at 2024 INFORMS Annual Conference
 * Improve Worker Bundling in The Gig Economy, with Park Sinchaisri, presented at 2024 MSOM Conference
-
-# Current Research Interests
-* Behavioral Operations, especially in the gig economy context
-* Reinforcement learning/multi-armed bandits and their applications on operations management problems
 
 
 # Collaboration
