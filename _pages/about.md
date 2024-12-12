@@ -10,7 +10,7 @@ redirect_from:
 
 I'm now a sixth-year PhD candidate at the UC Berkeley IEOR department. I major in operations research with minors in machine learning and economics. I'm interested in both machine learning and human learning. I'm honored to be advised by Prof. [Zuo-Jun (Max) Shen](https://scholar.google.com/citations?user=XGXOxQoAAAAJ&hl=en) and Prof. [Park Sinchaisri](https://parksinchaisri.github.io/). I'm also fortunate to have Prof. [Zeyu Zheng](https://zheng.ieor.berkeley.edu/) as my thesis committee members. Before my PhD, I received my bachelor degree in computer science from [The Chinese University of Hong Kong, Shenzhen](http://www.cuhk.edu.cn/en). 
 
-I'm the co-founder of Sun Never Set Developer Studio, a startup dedicated to empowering college students to develop innovative software solutions for academic institutions. Our project received funding from the CUHK Galaxy World Fund and was honored with the 'Digital Star' award by Tencent.
+I'm the co-founder of Sun Never Set Developer Studio, a startup dedicated to empowering college students to develop innovative software solutions for academic institutions. Our project received funding from the Galaxy World CUHKSZ Innovation Center and was honored with the 'Digital Star' award by Tencent.
 
 # Current Research Interests
 1. Developing data-driven learning algorithms for dynamic decision-making problems in operations;
