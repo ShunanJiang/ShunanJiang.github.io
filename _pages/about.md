@@ -23,7 +23,7 @@ I am the co-founder of Sun Never Set Developer Studio, a startup dedicated to em
 # Working Papers
 * Dynamic Repositioning in On-demand Vehicle Rental Systems with Demand Learning, with Hansheng Jiang, Chunlin Sun and Zuo-Jun Max Shen, avaliable at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4275368)
 * Creating Pseudo-users in Platform Launch: Insights from a Gaming Company, with Gang Guo and Zuo-Jun Max Shen, Presented at 2024 POMS Conference
-* Learning on the Go: Understanding How Gig Economy Workers Learn with Recommendation Algorithms, with Park Sinchaisri, submitted to ACM CSCW 2025, avaliable at [here](https://github.com/ShunanJiang/ShunanJiang.github.io/blob/master/files/CSCW_2025___Learning_on_the_Go%20(13).pdf)
+* Learning on the Go: Understanding How Gig Economy Workers Learn with Recommendation Algorithms, with Park Sinchaisri, submitted to ACM CSCW 2025, avaliable at [here](https://github.com/ShunanJiang/ShunanJiang.github.io/blob/master/files/cscw_2025_MR.pdf)
 * Improve Worker Learning in The Gig Economy, with Park Sinchaisri, presented at 2024 INFORMS Annual Conference
 * Improve Worker Bundling in The Gig Economy, with Park Sinchaisri, presented at 2024 MSOM Conference
 
